@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Recipe-Page-Project.git
+   git clone https://github.com/your-username/product-preview-card.git
    cd Recipe-Page-Project
    ```
 
