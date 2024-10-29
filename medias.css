@@ -18,7 +18,7 @@
     border-top-left-radius: 0.63rem;
     border-bottom-left-radius: 0.63rem;
     border-top-right-radius: 0;
-    background: url(/images/image-product-desktop.jpg) lightgray 50%/cover no-repeat;
+    background: url(./images/image-product-desktop.jpg) lightgray 50%/cover no-repeat;
   }
 
   .product-text {

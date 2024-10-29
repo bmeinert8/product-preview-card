@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 .product-image{
   width: 21.438rem;
   height: 15rem;
-  background: url(/images/image-product-mobile.jpg) lightgray 50%/cover no-repeat;
+  background: url(./images/image-product-mobile.jpg) lightgray 50%/cover no-repeat;
   border-top-left-radius: 0.625rem;
   border-top-right-radius: 0.625rem;
 }
