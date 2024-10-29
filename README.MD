@@ -27,7 +27,7 @@ The Product Preview Page is a beautifully designed and responsive web applicatio
 
 - HTML
 - CSS
--Javascript
+- Javascript
 
 ## Setup
 
