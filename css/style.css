@@ -180,3 +180,23 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #3D8168;
   border-radius: 0.8rem;
 }
+
+/* Cart Quatity */
+
+.cart{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.9rem;
+  margin-top: 2rem;
+
+}
+
+.rs-cart{
+  background-color: #3D8168;
+  color: #ffffff;
+  border-radius: 0.8rem;
+  padding: 1rem;
+  border: none;
+}
+
