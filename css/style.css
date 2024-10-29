@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 .text-preset-1 {
   color: #6c7289;
   font-family: "Montserrat", sans-serif;
-  font-size: 12px;
+  font-size: 0.75rem;
   font-style: normal;
   font-weight: 500;
   line-height: normal;
